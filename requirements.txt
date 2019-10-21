@@ -1,0 +1,29 @@
+# requirements
+
+Jupyter NoteBook
+
+# OS and others 
+
+Windows 10 64 bit
+
+Python Version 3.6
+
+opencv-python-4.1.1.26
+
+# Install packages 
+
+1. python -m pip install opencv-python
+
+2. python -m pip install numpy
+
+3. python -m pip install matplotlib
+
+
+
+#####
+P.S
+
+or try to install through normal pip as
+
+pip install 'package_name'
+

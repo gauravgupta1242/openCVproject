@@ -1,0 +1,1 @@
+# The image given here are the sample output of the code

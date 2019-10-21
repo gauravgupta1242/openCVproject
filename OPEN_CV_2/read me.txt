@@ -1,0 +1,1 @@
+# the sample output will be save as output.avi to your respective path.
