@@ -1,3 +1,5 @@
+This is just introduction and begineers series for getting started with OPEN-CV.
+
 # requirements
 
 Jupyter NoteBook
